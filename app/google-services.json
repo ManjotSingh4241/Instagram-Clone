@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "214257078600",
+    "project_id": "instagram-clone-3ad15",
+    "storage_bucket": "instagram-clone-3ad15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214257078600:android:d0fa47d34a086e5225a37d",
+        "android_client_info": {
+          "package_name": "com.netlifymanjot.instagram_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDb-I51cTi9xUdGgpUQskHtfYQ1ULwxsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
